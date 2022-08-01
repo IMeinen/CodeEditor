@@ -6,7 +6,7 @@ My goal is to create a fluid UI that allows the user to access, edit, save and d
 
 PS: The delete and update endpoints weren't working properly, so I did these operations just for the frontend context. Even so, the apis were implemented (if you check the inspect you will notice that they are being called correctly and returning status 200).
 
-![app_running]([http://url/to/img.png](https://github.com/IMeinen/CodeEditor/blob/master/public/screenshot_code_editor.png))
+![app_running](https://github.com/IMeinen/CodeEditor/blob/master/public/screenshot_code_editor.png)
 
 ## Available Scripts
 
