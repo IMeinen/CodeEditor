@@ -4,8 +4,7 @@ import { IoIosFolder } from "react-icons/io";
 import * as Styles from "./styles";
 import { FileModel } from "../../../types/fileTypes";
 import { FilesContext } from "../../../context/filesContext";
-
-function FileItem({ id, name, isDirectory,level }: FileModel) {
+function FileItem({ id, name, isDirectory, level }: FileModel) {
   const { handleOpenFile, getHasChanges, currentActive } =
     useContext(FilesContext);
 
