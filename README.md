@@ -1,6 +1,10 @@
 # CodeEditor
 
-This app implements an web code editor embased on this api: https://app.swaggerhub.com/apis/john-veezoo/Online-Editor/1.0.0
+This app implements an web code editor embased on this api: https://app.swaggerhub.com/apis/john-veezoo/Online-Editor/1.0.0 
+
+My goal is to create a fluid UI that allows the user to access, edit, save and delete the files available from the api.
+
+PS: The delete and update endpoints weren't working properly, so I did these operations just for the frontend context. Even so, the apis were implemented (if you check the inspect you will notice that they are being called correctly and returning status 200).
 
 ## Available Scripts
 
