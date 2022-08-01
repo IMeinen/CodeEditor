@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CodeEditor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app implements an web code editor embased on this api: https://app.swaggerhub.com/apis/john-veezoo/Online-Editor/1.0.0
 
 ## Available Scripts
 
